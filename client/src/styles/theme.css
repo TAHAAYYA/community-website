@@ -1,0 +1,102 @@
+body {
+  background: #f7f7f2;
+  font-family: "Segoe UI", sans-serif;
+  color: #1f2d1f;
+}
+
+a {
+  text-decoration: none;
+}
+
+.navbar-custom {
+  background: #ffffff;
+  border-bottom: 1px solid #d9e3d4;
+}
+
+.brand-logo {
+  width: 42px;
+  height: 42px;
+  border-radius: 10px;
+  background: #14532d;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+}
+
+.hero-title {
+  font-size: 4rem;
+  font-weight: 300;
+  line-height: 1.1;
+}
+
+.hero-accent {
+  color: #166534;
+  font-style: italic;
+}
+
+.hero-card {
+  background: linear-gradient(145deg, #14532d, #052e16);
+  border-radius: 24px;
+  color: white;
+  padding: 40px;
+  min-height: 420px;
+}
+
+.soft-card {
+  background: white;
+  border-radius: 20px;
+  border: 1px solid #dde5d8;
+  padding: 24px;
+}
+
+.section-title {
+  font-size: 2.8rem;
+  font-weight: 300;
+}
+
+.stat-number {
+  font-size: 3rem;
+  color: #14532d;
+}
+
+.green-btn {
+  background: #166534;
+  color: white;
+  border: none;
+  border-radius: 12px;
+  padding: 12px 24px;
+}
+
+.green-btn:hover {
+  background: #14532d;
+}
+
+.outline-btn {
+  border: 1px solid #cad5c5;
+  border-radius: 12px;
+  padding: 12px 24px;
+  background: white;
+}
+
+.auth-wrapper {
+  min-height: 100vh;
+}
+
+.auth-left {
+  background: linear-gradient(145deg, #166534, #052e16);
+  color: white;
+  padding: 80px;
+}
+
+.auth-right {
+  background: #f7f7f2;
+  padding: 80px;
+}
+
+.footer-custom {
+  background: white;
+  border-top: 1px solid #dce4d7;
+  padding: 40px 0;
+}

@@ -17,7 +17,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://community-website-six.vercel.app"
+      "https://community-website-tahaayyas-projects.vercel.app"
     ],
     credentials: true
   })

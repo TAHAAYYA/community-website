@@ -17,7 +17,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "community-website-six.vercel.app"
+      "community-website-ivory.vercel.app"
     ],
     credentials: true
   })
